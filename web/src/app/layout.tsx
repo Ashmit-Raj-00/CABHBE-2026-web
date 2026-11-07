@@ -21,7 +21,7 @@ const workSans = Work_Sans({
 const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000";
 const title = "CABHBE-26 — International Conference on Biotechnology";
 const description =
-  "2nd International Conference on Advancement of Biotechnology in Healthcare, Bioproducts and Environmental Research. 10–12 December 2026, GIET University, Gunupur, Odisha.";
+  "2nd International Conference on Advancement of Biotechnology in Healthcare, Bioproducts and Environmental Research. 7–8 December 2026, GIET University, Gunupur, Odisha.";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),

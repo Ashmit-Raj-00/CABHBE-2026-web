@@ -429,7 +429,7 @@ function PageBody({
         </p>
       </div>
       <div className="bp-foot">
-        <span>10 – 12 December · Gunupur</span>
+        <span>7 – 8 December · Gunupur</span>
         <Folio n={folio} total={total} />
       </div>
     </div>

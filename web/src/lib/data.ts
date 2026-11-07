@@ -3,8 +3,8 @@ export const event = {
   fullName:
     "2nd International Conference on Advancement of Biotechnology in Healthcare, Bioproducts and Environmental Research",
   edition: "2nd International Conference",
-  dates: "10 – 12 December 2026",
-  startDate: "2026-12-10T00:00:00",
+  dates: "7 – 8 December 2026",
+  startDate: "2026-12-07T00:00:00",
   venue: "GIET University, Gunupur, Odisha",
   venueFull: "GIET University, Gunupur, Odisha – 765022, India",
   organizer: "Department of Biotechnology, GIET University",

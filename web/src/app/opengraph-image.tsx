@@ -63,7 +63,7 @@ export default function OpengraphImage() {
         </div>
 
         <div style={{ display: "flex", fontSize: 28, color: "#4A4A4A", marginBottom: 8 }}>
-          10 – 12 December 2026 · GIET University, Gunupur, Odisha
+          7 – 8 December 2026 · GIET University, Gunupur, Odisha
         </div>
         <div style={{ display: "flex", fontSize: 24, color: "#B8162B", fontWeight: 600 }}>
           Department of Biotechnology · DBT-BIRAC E-YUVA Center

@@ -75,7 +75,7 @@ export default function Home() {
             </h1>
 
             <p className="max-w-xl text-base leading-relaxed text-cream/85 sm:text-xl">
-              Three days in the Eastern Ghats bringing together academicians, researchers, industry
+              Two days in the Eastern Ghats bringing together academicians, researchers, industry
               leaders and students to share advances shaping the future of biotechnology.
             </p>
 
